@@ -21,7 +21,3 @@ env/
 .DS_Store
 Thumbs.db
 
-# Lab reports / personal
-*.pdf
-
-!report2.pdf
